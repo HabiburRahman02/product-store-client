@@ -32,7 +32,7 @@ const Navbar = () => {
         <li><Link to='/secret'>Secret</Link></li>
     </>
     return (
-        <div className="navbar fixed z-30 mx-auto max-w-7xl bg-sky-900 bg-opacity-25">
+        <div className="navbar fixed z-30 max-w-7xl mx-auto bg-sky-900 bg-opacity-25">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

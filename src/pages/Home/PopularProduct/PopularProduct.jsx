@@ -27,27 +27,27 @@ const PopularProduct = () => {
             >
                 <SwiperSlide>
                     <img src={popular1} alt="" />
-                    <h3 className='text-3xl -mt-12 text-white text-center'>Camera</h3>
+                    <h3 className='text-xl lg:text-3xl -mt-12 text-white text-center'>Camera</h3>
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={popular2} alt="" />
-                    <h3 className='text-3xl -mt-12 text-white text-center'>Laptop</h3>
+                    <h3 className='text-xl lg:text-3xl -mt-12 text-white text-center'>Laptop</h3>
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={popular5} alt="" />
-                    <h3 className='text-3xl -mt-12 text-white text-center'>Bike</h3>
+                    <h3 className='text-xl lg:text-3xl -mt-12 text-white text-center'>Bike</h3>
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={popular4} alt="" />
-                    <h3 className='text-3xl -mt-12 text-white text-center'>Headphone</h3>
+                    <h3 className='text-xl lg:text-3xl -mt-12 text-white text-center'>Headphone</h3>
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={popular3} alt="" />
-                    <h3 className='text-3xl -mt-12 text-white text-center'>Car</h3>
+                    <h3 className='text-xl lg:text-3xl -mt-12 text-white text-center'>Car</h3>
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={popular6} alt="" />
-                    <h3 className='text-3xl -mt-12 text-white text-center'>Apple</h3>
+                    <h3 className='text-xl lg:text-3xl -mt-12 text-white text-center'>Apple</h3>
                 </SwiperSlide>
             </Swiper>
         </div>
