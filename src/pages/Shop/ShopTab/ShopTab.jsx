@@ -1,8 +1,8 @@
 import ItemCard from "../../../components/ItemCard/ItemCard";
 
-const ShopTab = ({item}) => {
+const ShopTab = ({ item }) => {
     return (
-        <div className="grid md:grid-cols-4 gap-6">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             {
                 item.map(item => <ItemCard
                     key={item._id}

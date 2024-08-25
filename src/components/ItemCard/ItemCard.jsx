@@ -56,7 +56,7 @@ const ItemCard = ({ item }) => {
     }
     return (
         <div className="card bg-base-100 shadow-xl">
-            <figure><img src={image} alt="Shoes" /></figure>
+            <figure><img className="w-full h-72 md:h-52 object-cover" src={image} alt="img coming" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{name}</h2>
                 <p className="text-green-600 font-semibold">${price}</p>
