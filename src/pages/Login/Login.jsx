@@ -34,7 +34,7 @@ const Login = () => {
         <div className="hero min-h-screen">
             <div className="hero-content flex-col lg:flex-row">
                 <div className="text-center lg:text-left">
-                    <img className='w-2/3 h-1/2 mx-auto' src={loginImg} alt="" />
+                    <img className='w-2/3 h-auto mx-auto' src={loginImg} alt="" />
                 </div>
                 <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
                     <Link className="text-end text-red-500" to='/'>

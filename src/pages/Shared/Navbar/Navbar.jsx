@@ -27,7 +27,7 @@ const Navbar = () => {
 
     const links = <>
         <li><Link to='/'>Home</Link></li>
-        <li><Link to='/product'>Our Product</Link></li>
+        {/* <li><Link to='/product'>Our Product</Link></li> */}
         <li><Link to='/shop'>Our Shop</Link></li>
         <li><Link to='/secret'>Secret</Link></li>
     </>
@@ -42,7 +42,7 @@ const Navbar = () => {
                         {links}
                     </ul>
                 </div>
-                <Link to='/' className="btn btn-ghost text-xl text-white">E-commerce</Link>
+                <Link to='/' className="btn btn-ghost hidden lg:block text-xl text-white ">E-commerce</Link>
             </div>
             <div className="navbar-center  hidden lg:flex">
                 <ul className="menu text-white menu-horizontal px-1">
