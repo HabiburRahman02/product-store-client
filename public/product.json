@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "1",
+        "name": "Apple MacBook Air M1",
+        "description": "Lightweight and powerful laptop with M1 chip and long battery life.",
+        "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Laptop",
+        "price": 999
+    },
+    {
+        "_id": "2",
+        "name": "Canon EOS R5",
+        "description": "High-resolution mirrorless camera with 45 MP sensor and 8K video recording.",
+        "image": "https://images.pexels.com/photos/1787220/pexels-photo-1787220.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Camera",
+        "price": 3899
+    },
+    {
+        "_id": "3",
+        "name": "Yamaha YZF-R3",
+        "description": "Sporty and agile motorcycle with a 321cc engine, perfect for city and highway riding.",
+        "image": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Bike",
+        "price": 5299
+    },
+    {
+        "_id": "4",
+        "name": "Tesla Model 3",
+        "description": "Electric car with impressive range, advanced autopilot features, and sleek design.",
+        "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Car",
+        "price": 39999
+    },
+    {
+        "_id": "5",
+        "name": "Sony WH-1000XM4",
+        "description": "Noise-cancelling wireless headphones with exceptional sound quality.",
+        "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Best",
+        "price": 349
+    },
+    {
+        "_id": "6",
+        "name": "Dell XPS 13",
+        "description": "Compact and powerful laptop with a stunning 13.4-inch display.",
+        "image": "https://images.pexels.com/photos/389818/pexels-photo-389818.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Laptop",
+        "price": 1099
+    },
+    {
+        "_id": "7",
+        "name": "Nikon Z6 II",
+        "description": "Versatile mirrorless camera with excellent autofocus and 4K video.",
+        "image": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Camera",
+        "price": 1999
+    },
+    {
+        "_id": "8",
+        "name": "Honda CBR600RR",
+        "description": "High-performance motorcycle with a 599cc engine, perfect for track and street riding.",
+        "image": "https://images.pexels.com/photos/2393818/pexels-photo-2393818.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Bike",
+        "price": 11799
+    },
+    {
+        "_id": "9",
+        "name": "Ford Mustang GT",
+        "description": "Iconic muscle car with a powerful V8 engine and classic design.",
+        "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Car",
+        "price": 45000
+    },
+    {
+        "_id": "10",
+        "name": "Apple AirPods Pro",
+        "description": "True wireless earbuds with active noise cancellation and immersive sound.",
+        "image": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category": "Best",
+        "price": 249
+    }
+]
