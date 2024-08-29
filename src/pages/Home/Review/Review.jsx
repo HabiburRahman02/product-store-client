@@ -14,7 +14,7 @@ const Review = () => {
     const [reviews, setReviews] = useState([]);
 
     useEffect(() => {
-        fetch('https://product-store-server-amber.vercel.app/reviews')
+        fetch('https://product-store-server-jbqbdp21b-habibur-rahman-habibs-projects.vercel.app/reviews')
             .then(res => res.json())
             .then(data => {
                 console.log(data)
